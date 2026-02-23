@@ -1,0 +1,11 @@
+
+file_format: "1"
+id: km_midikey002
+name: km_midikey002
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble

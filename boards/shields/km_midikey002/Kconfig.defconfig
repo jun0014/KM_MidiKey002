@@ -1,0 +1,7 @@
+
+if SHIELD_KM_MIDIKEY002
+
+config ZMK_KEYBOARD_NAME
+    default "km_midikey002"
+
+endif
